@@ -8,7 +8,7 @@ from streamlit_pandas_profiling import st_profile_report
 @st.cache
 def get_data():
   # return pd.read_csv("http://data.insideairbnb.com/united-states/ny/new-york-city/2019-09-12/visualisations/listings.csv")
-  return pd.read_csv('data/financial1.csv')
+  return pd.read_csv('data/energy.csv')
 
 
 
