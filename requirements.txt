@@ -1,7 +1,5 @@
 plotly
 streamlit
-streamlit_pandas_profiling
 pandas
 numpy
-pandas-profiling
-jupyter
+yfinance
